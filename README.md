@@ -13,13 +13,13 @@ ReSoWr is the equivalent of the command "cat file1 file2 .. fileN | sort > outpu
 3) Run ReSoWr.exe file.
 4) Enjoy! :)
 
-Note 1: The output.txt file overwrites itself.
+Note 1: The output.txt file overwrites itself. <br />
 Note 2: For easier access to default input files you can copy and paste them into the parent folder.
 
 ### Requirements
 
-Programming language: C++ (GCC 8.1.0 and higher);
-OS: Windows 10 x64;
+Programming language: C++ (GCC 8.1.0 and higher); <br />
+OS: Windows 10 x64; <br />
 Additional files (you can find them in the AddDLLFiles folder): libgcc_s_seh-1.dll, libstdc++-6.dll, libwinpthread-1.dll.
 
 ## License
