@@ -8,12 +8,13 @@ ReSoWr is the equivalent of the command "cat file1 file2 .. fileN | sort > outpu
 
 ## Installation
 
-1) Get a clone of a repository.
-2) Go to AddDLLFiles folder, copy .dll files and paste them directly into the ReSoWr folder.
-3) Go to ReSoWr folder and run ReSoWr.exe file.
+1) Get a clone of a repository or download .zip.
+2) Go to AddDLLFiles folder, copy .dll files and paste them directly into the folder with ReSoWr.exe (parent folder).
+3) Run ReSoWr.exe file.
 4) Enjoy! :)
 
-Note: The present output.txt file contains sorted contents of all of the provided default input files.
+Note 1: The output.txt file overwrites itself.
+Note 2: For easier access to default input files you can copy and paste them into the parent folder.
 
 ### Requirements
 
